@@ -1,10 +1,16 @@
-# Decogen-AR-VR
-AR/VR-Based Interior Furniture Design App  An AR/VR mobile application that enables users to virtually place and visualize furniture in their real environments before purchase. The app integrates with e-commerce platforms for quick product viewing and seamless shopping.
+# flutter_project
 
-Key Highlights
+A new Flutter project.
 
-Developed a mobile app for virtual furniture placement in real environments.
+## Getting Started
 
-Linked designs directly to e-commerce platforms, enabling quick product previews and purchases.
+This project is a starting point for a Flutter application.
 
-Generated 20+ product previews and improved user interaction by 15% during pilot tests.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
